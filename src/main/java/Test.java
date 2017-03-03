@@ -23,6 +23,10 @@ public class Test {
         }
 
     }
+
+    void f() {
+        asdfasdf
+    }
 }
 
 
