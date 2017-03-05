@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test">
+    <output-path>$PROJECT_DIR$/out/artifacts/test</output-path>
+    <root id="archive" name="test.jar">
+      <element id="module-output" name="test" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/services/javax.annotation.processing.Processor" />
+    </root>
+  </artifact>
+</component>
